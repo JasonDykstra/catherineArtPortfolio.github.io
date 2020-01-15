@@ -1,0 +1,3 @@
+- fix tf out of navbar
+- make pretty
+- fix about page top margin issue
